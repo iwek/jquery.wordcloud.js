@@ -23,3 +23,5 @@ and then:
 Demo
 ----
 [Word Cloud](http://techslides.com/demos/wordcloud.html "jquery.wordcloud.js Demo").
+
+[ImageNab Instagram Viewer](http://imagenab.com/ "Browsing Instagram on the Web").
